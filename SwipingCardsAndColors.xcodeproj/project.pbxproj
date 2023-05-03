@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4B11F4032A02EDD100343AA7 /* Lesson7Challenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lesson7Challenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B11F4032A02EDD100343AA7 /* SwipingCardsAndColors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwipingCardsAndColors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B11F4062A02EDD100343AA7 /* SwipingCardsAndColorsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipingCardsAndColorsApp.swift; sourceTree = "<group>"; };
 		4B11F4082A02EDD100343AA7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4B11F40A2A02EDD200343AA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		4B11F4042A02EDD100343AA7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4B11F4032A02EDD100343AA7 /* Lesson7Challenge.app */,
+				4B11F4032A02EDD100343AA7 /* SwipingCardsAndColors.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -72,9 +72,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4B11F4022A02EDD100343AA7 /* Lesson7Challenge */ = {
+		4B11F4022A02EDD100343AA7 /* SwipingCardsAndColors */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4B11F4122A02EDD200343AA7 /* Build configuration list for PBXNativeTarget "Lesson7Challenge" */;
+			buildConfigurationList = 4B11F4122A02EDD200343AA7 /* Build configuration list for PBXNativeTarget "SwipingCardsAndColors" */;
 			buildPhases = (
 				4B11F3FF2A02EDD100343AA7 /* Sources */,
 				4B11F4002A02EDD100343AA7 /* Frameworks */,
@@ -84,9 +84,9 @@
 			);
 			dependencies = (
 			);
-			name = Lesson7Challenge;
+			name = SwipingCardsAndColors;
 			productName = Lesson7Challenge;
-			productReference = 4B11F4032A02EDD100343AA7 /* Lesson7Challenge.app */;
+			productReference = 4B11F4032A02EDD100343AA7 /* SwipingCardsAndColors.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -104,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4B11F3FE2A02EDD100343AA7 /* Build configuration list for PBXProject "Lesson7Challenge" */;
+			buildConfigurationList = 4B11F3FE2A02EDD100343AA7 /* Build configuration list for PBXProject "SwipingCardsAndColors" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -117,7 +117,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4B11F4022A02EDD100343AA7 /* Lesson7Challenge */,
+				4B11F4022A02EDD100343AA7 /* SwipingCardsAndColors */,
 			);
 		};
 /* End PBXProject section */
@@ -331,7 +331,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4B11F3FE2A02EDD100343AA7 /* Build configuration list for PBXProject "Lesson7Challenge" */ = {
+		4B11F3FE2A02EDD100343AA7 /* Build configuration list for PBXProject "SwipingCardsAndColors" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B11F4102A02EDD200343AA7 /* Debug */,
@@ -340,7 +340,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4B11F4122A02EDD200343AA7 /* Build configuration list for PBXNativeTarget "Lesson7Challenge" */ = {
+		4B11F4122A02EDD200343AA7 /* Build configuration list for PBXNativeTarget "SwipingCardsAndColors" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B11F4132A02EDD200343AA7 /* Debug */,
